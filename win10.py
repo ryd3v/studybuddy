@@ -22,7 +22,7 @@ def countdown(mins, secs=0):
 
 print("Let's Study!"),
 print("The topics are:\n"),
-study_topics = ["Books[1]", "Cyber Security[2]", "Programming[3]"]
+study_topics = ["Books[1]", "Cybersecurity[2]", "Programming[3]"]
 
 for topic in study_topics:
     print(topic)
