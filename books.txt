@@ -38,3 +38,4 @@ A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
 Cyberjutsu: Cybersecurity for the Modern Ninja
 C Programming Language 2nd Edition
 Red Team Development and Operations: A practical guide
+The Rootkit Arsenal: Escape And Evasion
