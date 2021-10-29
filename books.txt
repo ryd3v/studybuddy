@@ -1,41 +1,45 @@
+A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
+Applied Cryptography: Protocols, Algorithms and Source Code in C
 Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation
+Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners
 Black Hat Go: Go Programming For Hackers and Pentesters
+Blue Team Field Manual (BTFM)
+C Programming Language 2nd Edition
+Cryptography Engineering: Design Principles and Practical Applications
+Cyberjutsu: Cybersecurity for the Modern Ninja
+Designing BSD Rootkits: An Introduction to Kernel Hacking
 Foundations of Information Security: A Straightforward Introduction
+Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition
 Hacking : The Art of Exploitation, 2nd Edition
+Learning Python: Powerful Object-Oriented Programming
 Linux Basics for Hackers
+Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code
 Malware Data Science: Attack Detection and Attribution
 Metasploit: The Penetration Tester's Guide
+Modern X86 Assembly Language Programming: Covers x86 64-bit, AVX, AVX2, and AVX-512
+PTFM: Purple Team Field Manual
 Penetration Testing: A Hands-On Introduction to Hacking
 Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly
 Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software
 Practical Packet Analysis, 3E: Using Wireshark to Solve Real-World Network Problems
-Real-World Bug Hunting: A Field Guide to Web Hacking
-Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
-Serious Cryptography: A Practical Introduction to Modern Encryption
-The Car Hacker's Handbook: A Guide for the Penetration Tester
-The Hardware Hacker: Adventures in Making and Breaking Hardware
-The Linux Command Line, 2nd Edition: A Complete Introduction
-Web Security for Developers: Real Threats, Practical Defense
-Applied Cryptography: Protocols, Algorithms and Source Code in C
-The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
-Cryptography Engineering: Design Principles and Practical Applications
-Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code
 Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
-The Shellcoder's Handbook: Discovering and Exploiting Security Holes
+Real-World Bug Hunting: A Field Guide to Web Hacking
+Red Team Development and Operations: A practical guide
+Reversing: Secrets of Reverse Engineering
+Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
+Rtfm: Red Team Field Manual
+Serious Cryptography: A Practical Introduction to Modern Encryption
 Social Engineering: The Science of Human Hacking
+The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
+The Car Hacker's Handbook: A Guide for the Penetration Tester
+The Hacker Playbook 3: Practical Guide To Penetration Testing
+The Hardware Hacker: Adventures in Making and Breaking Hardware
+The IDA Pro Book, 2nd Edition: The Unofficial Guide to the World's Most Popular Disassembler
+The Linux Command Line, 2nd Edition: A Complete Introduction
+The Practice of Network Security Monitoring: Understanding Incident Detection and Response
+The Rootkit Arsenal: Escape And Evasion
+The Shellcoder's Handbook: Discovering and Exploiting Security Holes
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Threat Modeling: Designing for Security
 Unauthorised Access: Physical Penetration Testing For IT Security Teams
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-Learning Python: Powerful Object-Oriented Programming
-Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners
-Reversing: Secrets of Reverse Engineering
-Modern X86 Assembly Language Programming: Covers x86 64-bit, AVX, AVX2, and AVX-512
-Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition
-The Practice of Network Security Monitoring: Understanding Incident Detection and Response
-The IDA Pro Book, 2nd Edition: The Unofficial Guide to the World's Most Popular Disassembler
-Designing BSD Rootkits: An Introduction to Kernel Hacking
-A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
-Cyberjutsu: Cybersecurity for the Modern Ninja
-C Programming Language 2nd Edition
-Red Team Development and Operations: A practical guide
-The Rootkit Arsenal: Escape And Evasion
+Web Security for Developers: Real Threats, Practical Defense
